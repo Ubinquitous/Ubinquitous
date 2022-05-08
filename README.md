@@ -1,5 +1,5 @@
-## **Welcome!👋**
-## i'm interested in learning and getting to know new things.
+### **Welcome!👋**
+### i'm interested in learning and getting to know new things.
 ---
 #### Reach me : Ubinquitous1@gmail.com
 #### Here something about me : 
