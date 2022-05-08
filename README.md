@@ -1,6 +1,6 @@
-### **Welcome!👋**###
-I'm interested in learning and getting to know new things.
-Reach me : Ubinquitous1@gmail.com
+### **Welcome!👋**
+###### I'm interested in learning and getting to know new things.
+###### Reach me : Ubinquitous1@gmail.com
 ---
 Here something about me : 
 * 🌊 I am attending a school specializing in programming in Busan, Korea.
