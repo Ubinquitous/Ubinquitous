@@ -3,8 +3,8 @@
 #### I'm interested in learning and getting to know new things.
 ---
 Reach me!  
-GMAIL : Ubinquitous1@gmail.com  
-SNS   : www.instagram.com/ub__27/  
+###### GMAIL : Ubinquitous1@gmail.com  
+###### SNS   : www.instagram.com/ub__27/  
 ---
 Here something about me : 
 * 🌊 I am attending a school specializing in programming in Busan, Korea.
