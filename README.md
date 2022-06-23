@@ -1,4 +1,3 @@
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
   <div align="center">
@@ -14,7 +13,7 @@
 
 ---
 
-<br>  <br>
+<br>
 
 👨‍💻 I'm always challenged to learn more languages.
 <br>
@@ -23,10 +22,9 @@
 <br>
 
 🌊 I am attending a software school in Busan, Korea.
-<br>
+<br><br>
 
 ---
-
 
 <div align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
