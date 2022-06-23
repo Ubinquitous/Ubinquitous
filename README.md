@@ -14,16 +14,12 @@
 ---
 
 <br>
-
 👨‍💻 I'm always challenged to learn more languages.
 <br>
-
 🎶 I spend my free time listening to music.
 <br>
-
 🌊 I am attending a software school in Busan, Korea.
-<br><br>
-
+<br>
 ---
 
 <div align="left">
