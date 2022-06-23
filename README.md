@@ -15,7 +15,6 @@
 
 
 #### Like the meaning of ubiquitous, I want to become a<br> developer that everyone knows and exists everywhere.
-<br>
 
 ---
 
