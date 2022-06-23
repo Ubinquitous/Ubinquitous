@@ -13,7 +13,6 @@
 
 ---
 
-<br>
 👨‍💻 I'm always challenged to learn more languages.
 <br>
 🎶 I spend my free time listening to music.
