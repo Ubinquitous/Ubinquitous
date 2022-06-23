@@ -11,7 +11,10 @@
   <a href="Ubinquitous1@gmail.com"><img src="https://img.shields.io/badge/GMAIL-red?style=flat-round&logo=GMAIL&logoColor=white"/></a>
 </a>
 </div>
-<b align="left" style="color:#666666;">________________________________________________________</b><br>  <br>
+
+---
+
+<br>  <br>
 
 👨‍💻 I'm always challenged to learn more languages.
 <br>
