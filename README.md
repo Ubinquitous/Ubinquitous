@@ -13,9 +13,10 @@
 
 ---
 
-👨‍💻 I'm always challenged to learn more languages.
+
+Like the meaning of ubiquitous, I want to become a 
 <br>
-🌊 I am attending a software school in Busan, Korea.
+developer that everyone knows and exists everywhere.
 <br>
 
 ---
