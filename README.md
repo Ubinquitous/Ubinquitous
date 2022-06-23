@@ -13,8 +13,8 @@
 
 ---
 
-<div align="center">
-<b>Like the meaning of ubiquitous, <br>I want to become a developer that <br>everyone knows and exists everywhere.</b>
+<div align="left">
+<b>Like the meaning of Ubiquitous, <br>I want to become a developer that <br>everyone knows and exists everywhere.</b>
 </div>
 
 ---
