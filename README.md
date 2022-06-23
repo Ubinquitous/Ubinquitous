@@ -13,8 +13,9 @@
 
 ---
 
-
-#### Like the meaning of ubiquitous, <br>I want to become a developer that <br>everyone knows and exists everywhere.
+<div align="center">
+<b>Like the meaning of ubiquitous, <br>I want to become a developer that <br>everyone knows and exists everywhere.</b>
+</div>
 
 ---
 
