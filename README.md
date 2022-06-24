@@ -22,15 +22,13 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <div align="center"> 
-<b>📖Study📖</b>
+<b>📖Language📖</b>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/C-blue?style=flat-round&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-round&logo=Javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-ff4000?style=flat-round&logo=html5&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/CSS-2E9AFE?style=flat-round&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-round&logo=Javascript&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Markdown-gray?style=flat-round&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-orange?style=flat-round&logo=Oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-0174DF?style=flat-round&logo=arduino&logoColor=white"/>
 <br><br>
 <div align="center"> 
 <b>🛠Tools🛠</b>
@@ -38,7 +36,7 @@
   <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio code-2E9AFE?style=flat-round&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/codeblocks-yellow?style=flat-round&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/codeblocks-darkorange?style=flat-round&logo=microsoft&logoColor=white"/>
   </div>
   </div>
 </div>
