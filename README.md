@@ -36,7 +36,6 @@
   <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio code-2E9AFE?style=flat-round&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/codeblocks-darkorange?style=flat-round&logo=microsoft&logoColor=white"/>
   </div>
   </div>
 </div>
