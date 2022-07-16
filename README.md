@@ -26,16 +26,20 @@
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/C-blue?style=flat-round&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-round&logo=Javascript&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Markdown-gray?style=flat-round&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-orange?style=flat-round&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-d76e3b?style=flat-round&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-6a95c8?style=flat-round&logo=css3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/React JS-92e5fb?style=flat-round&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-e8d41e?style=flat-round&logo=Javascript&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/TypeScript-5378c1?style=flat-round&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-b0bec5?style=flat-round&logo=Oracle&logoColor=white"/><br>
 <br><br>
 <div align="center"> 
 <b>🛠Tools🛠</b>
 </div>
   <div align="center">
-<img src="https://img.shields.io/badge/Visual Studio code-2E9AFE?style=flat-round&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=flat-round&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-orange?style=flat-round&logo=Git&logoColor=white"/>
   </div>
   </div>
 </div>
