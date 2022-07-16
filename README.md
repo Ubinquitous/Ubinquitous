@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/JavaScript-e8d41e?style=flat-round&logo=Javascript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/TypeScript-5378c1?style=flat-round&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-b0bec5?style=flat-round&logo=Oracle&logoColor=white"/><br>
-<br><br>
+<br>
 <div align="center"> 
 <b>🛠Tools🛠</b>
 </div>
