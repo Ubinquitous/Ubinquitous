@@ -27,13 +27,15 @@
 <div align="center">
 <img src="https://img.shields.io/badge/C-blue?style=flat-round&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-d76e3b?style=flat-round&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-6a95c8?style=flat-round&logo=css3&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/CSS3-6a95c8?style=flat-round&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React JS-92e5fb?style=flat-round&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-e8d41e?style=flat-round&logo=Javascript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/TypeScript-5378c1?style=flat-round&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-b0bec5?style=flat-round&logo=Oracle&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Oracle-b0bec5?style=flat-round&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/React router-green?style=flat-round&logo=reactrouter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-purple?style=flat-round&logo=redux&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Python-yellow?style=flat-round&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scss-hotpink?style=flat-round&logo=sass&logoColor=white"/>
 <div align="center"> 
 <b>🛠 Tools 🛠</b>
 </div>
