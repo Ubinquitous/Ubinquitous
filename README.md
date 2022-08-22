@@ -22,7 +22,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <div align="center"> 
-<b>📖Language📖</b>
+<b>📖 Learn 📖</b>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/C-blue?style=flat-round&logo=C&logoColor=white"/>
@@ -32,9 +32,10 @@
 <img src="https://img.shields.io/badge/JavaScript-e8d41e?style=flat-round&logo=Javascript&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/TypeScript-5378c1?style=flat-round&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-b0bec5?style=flat-round&logo=Oracle&logoColor=white"/><br>
-<br>
+<img src="https://img.shields.io/badge/React router-green?style=flat-round&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-purple?style=flat-round&logo=redux&logoColor=white"/><br>
 <div align="center"> 
-<b>🛠Tools🛠</b>
+<b>🛠 Tools 🛠</b>
 </div>
   <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-round&logo=visualstudiocode&logoColor=white"/>
