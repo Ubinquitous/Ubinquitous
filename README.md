@@ -22,17 +22,18 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <div align="center"> 
-<b>📖 Learn 📖</b>
+<b>📖 Front 📖</b>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-d76e3b?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-6a95c8?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React JS-92e5fb?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-e8d41e?style=flat-square&logo=Javascript&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/TypeScript-5378c1?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React router-green?style=flat-square&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-73c4f4?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React router-bb4b4a?style=flat-square&logo=reactrouter&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Flutter-275898?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
+
 <div align="center"> 
 <br/>
 <b>🛠 Tools 🛠</b>
