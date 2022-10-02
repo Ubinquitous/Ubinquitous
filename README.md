@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React router-bb4b4a?style=flat-square&logo=reactrouter&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Flutter-275898?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
