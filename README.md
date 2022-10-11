@@ -21,8 +21,10 @@
 <div align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
-<div align="center"> 
-<b>📖 Techs 📖</b>
+<div align="center">  
+  
+  
+<b>🛠 Techs 🛠</b>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/React-73c4f4?style=flat-square&logo=react&logoColor=white"/>
@@ -30,13 +32,22 @@
 <img src="https://img.shields.io/badge/React router-bb4b4a?style=flat-square&logo=reactrouter&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>  
 
-<div align="center"> 
-<br/>
-<b>🛠 Tools 🛠</b>
+<div align="center">  
+
+<b>🔩 Sub Techs 🔩</b>
+</div>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-blue?style=flat-square&logo=socket.io&logoColor=white"/>
+
+<div align="center">  
+
+<b>⚙ Tools ⚙</b>
 </div>
   <div align="center">
 <img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -44,4 +55,36 @@
 <img src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white"/>
   </div>
   </div>
+</div>
+
+---
+
+<div align="center">  
+
+<b>📑 My Project 📑</b>
+
+[<picture><source media="(prefers-color-scheme: white)"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=OG-Frontend">
+</picture>](https://github.com/Original-Gimchi/OG-Frontend)
+[<picture><source media="(prefers-color-scheme: white)"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=T-Junior-BambooForest&repo=T_Frontend">
+</picture>](https://github.com/T-Junior-BambooForest/T_Frontend)
+</div>
+<div align="center">  
+
+<b>📒 Self Development 📒</b>
+
+[<picture><source media="(prefers-color-scheme: white)"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL">
+</picture>](https://github.com/Ubinquitous/TIL)
+[<picture><source media="(prefers-color-scheme: white)"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal">
+</picture>](https://github.com/Ubinquitous/Journal)
+<br/>
+[<picture><source media="(prefers-color-scheme: white)"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving">
+</picture>](https://github.com/Ubinquitous/problem-solving)
+[<picture><source media="(prefers-color-scheme: white)"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Ubinquitous.github.io">
+</picture>](https://github.com/Ubinquitous/Ubinquitous.github.io)
 </div>
