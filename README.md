@@ -59,7 +59,7 @@
 
 <div align="center">  
 
-#### 📑 My Project 📑
+### 📑 My Project 📑
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=OG-Frontend&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=OG-Frontend">
@@ -70,7 +70,7 @@
 </div>
 <div align="center">  
 
-#### 📒 Self Development 📒
+### 📒 Self Development 📒
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL" >
