@@ -72,17 +72,17 @@
 
 <b>📒 Self Development 📒</b>
 
-[<picture><source media="(prefers-color-scheme: white)"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL&theme=github_dark">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL" >
 </picture>](https://github.com/Ubinquitous/TIL)
-[<picture><source media="(prefers-color-scheme: white)"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal&theme=github_dark">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal" >
 </picture>](https://github.com/Ubinquitous/Journal)
 <br/>
-[<picture><source media="(prefers-color-scheme: white)"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving&theme=github_dark">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving">
 </picture>](https://github.com/Ubinquitous/problem-solving)
-[<picture><source media="(prefers-color-scheme: white)"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Ubinquitous.github.io" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Ubinquitous.github.io&theme=github_dark">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Ubinquitous.github.io&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Ubinquitous.github.io">
 </picture>](https://github.com/Ubinquitous/Ubinquitous.github.io)
 </div>
