@@ -22,8 +22,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 
 <div align="center">  
-  
-  
 <b>🛠 Techs 🛠</b>
 </div>
 <div align="center">
@@ -35,8 +33,8 @@
 <img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>  
 
-<div align="center">  
-
+<div align="center">
+  <br/>
 <b>🔩 Sub Techs 🔩</b>
 </div>
 <div align="center">
@@ -45,8 +43,8 @@
 <img src="https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-blue?style=flat-square&logo=socket.io&logoColor=white"/>
 
-<div align="center">  
-
+<div align="center">
+  <br/>
 <b>⚙ Tools ⚙</b>
 </div>
   <div align="center">
