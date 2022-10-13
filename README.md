@@ -39,7 +39,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-blue?style=flat-square&logo=socket.io&logoColor=white"/>
 
 <div align="center">
