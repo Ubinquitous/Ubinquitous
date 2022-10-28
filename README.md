@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-<b>I want to become a developer that <br>everyone knows and exists everywhere.</b>
+<b>As the name suggests, I want to become <br/>a developer that everyone knows.</b>
 </div>
 
 ---
