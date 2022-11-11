@@ -19,40 +19,32 @@
 
 <div align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-
+<br/>
 <div align="center">  
-<b>🛠 Techs 🛠</b>
+<b>🛠 Use for work 🛠</b>
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/React-73c4f4?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
 <img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React router-bb4b4a?style=flat-square&logo=reactrouter&logoColor=white"/>
 <br/>
+<img src="https://img.shields.io/badge/styled components-e7b29f?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
 
 <div align="center">
   <br/>
-<b>🔩 Sub Techs 🔩</b>
+<b>🔩 Know how to use 🔩</b>
 </div>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-blue?style=flat-square&logo=socket.io&logoColor=white"/>
-
-<div align="center">
-  <br/>
-<b>⚙ Tools ⚙</b>
-</div>
-  <div align="center">
-<img src="https://img.shields.io/badge/Visual Studio code-24acf2?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-orange?style=flat-square&logo=Git&logoColor=white"/>
-  </div>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-275f85?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle SQL-db443f?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
 
 ---
 
