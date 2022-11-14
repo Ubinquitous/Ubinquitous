@@ -55,9 +55,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=OG-Frontend&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=OG-Frontend">
 </picture>](https://github.com/Original-Gimchi/OG-Frontend)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=T-Junior-BambooForest&repo=T_Frontend&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=T-Junior-BambooForest&repo=T_Frontend">
-</picture>](https://github.com/T-Junior-BambooForest/T_Frontend)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=T-Shaped-junior&repo=T_Frontend&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=T-Shaped-Junior&repo=T_Frontend">
+</picture>](https://github.com/T-Shaped-Junior/T_Frontend)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Frontend&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Frontend">
 </picture>](https://github.com/pigeon-head/Cereal_Frontend)
