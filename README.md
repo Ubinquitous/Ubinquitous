@@ -82,7 +82,7 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving">
 </picture>](https://github.com/Ubinquitous/problem-solving)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Ubinquitous.github.io&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Ubinquitous.github.io">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TRAINING&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TRAINING">
 </picture>](https://github.com/Ubinquitous/Ubinquitous.github.io)
 </div>
