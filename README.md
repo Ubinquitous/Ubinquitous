@@ -52,9 +52,12 @@
 
 ### 📑 My Project 📑
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=OG-Frontend&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=OG-Frontend">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_Frontend&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_Frontend">
 </picture>](https://github.com/Original-Gimchi/OG-Frontend)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_App&theme=github_dark"/>
+  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_App">
+</picture>](https://github.com/Original-Gimchi/BUMA_App)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=T-Shaped-junior&repo=T_Frontend&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=T-Shaped-Junior&repo=T_Frontend">
 </picture>](https://github.com/T-Shaped-Junior/T_Frontend)
