@@ -31,7 +31,9 @@
 <img src="https://img.shields.io/badge/styled components-e7b29f?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
-
+<br/>
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
+  
 <div align="center">
   <br/>
 <b>🔩 Know how to use 🔩</b>
