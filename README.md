@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-7745bd?style=flat-square&logo=redux&logoColor=white"/>
   
 <div align="center">
   <br/>
