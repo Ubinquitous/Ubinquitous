@@ -26,15 +26,16 @@
 <img src="https://img.shields.io/badge/React.js-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
 <img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React router-bb4b4a?style=flat-square&logo=reactrouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/styled components-e7b29f?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-4776de?style=flat-square&logo=recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-e95258?style=flat-square&logo=react-query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-7895f9?style=flat-square&logo=Vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-4776de?style=flat-square&logo=recoil&logoColor=white"/>
+<br/>
+  <img src="https://img.shields.io/badge/Jest-8e475b?style=flat-square&logo=jest&logoColor=white&"/>
+<img src="https://img.shields.io/badge/styled components-d88f82?style=flat-square&logo=styled-components&logoColor=white"/>
   
 <div align="center">
   <br/>
@@ -45,13 +46,13 @@
 <img src="https://img.shields.io/badge/Preact-7745bd?style=flat-square&logo=preact&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/MySQL-275f85?style=flat-square&logo=mysql&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/Oracle SQL-db443f?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
-<br/>
 <img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-7745bd?style=flat-square&logo=redux&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
 
 ---
