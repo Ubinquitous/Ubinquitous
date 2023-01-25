@@ -19,7 +19,6 @@
 
 <div align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubinquitous&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-<br/>
 <div align="center">  
 <b>🛠 Use for work 🛠</b>
 </div>
@@ -33,9 +32,9 @@
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Sass-hotpink?style=flat-square&logo=sass&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-7745bd?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-4776de?style=flat-square&logo=recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-e95258?style=flat-square&logo=react-query&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-7895f9?style=flat-square&logo=Vite&logoColor=white"/>
   
 <div align="center">
   <br/>
@@ -43,13 +42,16 @@
 </div>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Preact-7745bd?style=flat-square&logo=preact&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-yellow?style=flat-square&logo=firebase&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/MySQL-275f85?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle SQL-db443f?style=flat-square&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-1d354a?style=flat-square&logo=Python&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Vue.js-64b686?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-7745bd?style=flat-square&logo=redux&logoColor=white"/>
 
 ---
 
