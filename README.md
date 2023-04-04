@@ -110,7 +110,6 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal" >
 </picture>](https://github.com/Ubinquitous/Journal)
-<br/>
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving&theme=github_dark"/>
   <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving">
 </picture>](https://github.com/Ubinquitous/problem-solving)
