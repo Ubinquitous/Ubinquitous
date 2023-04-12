@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/Redux-7745bd?style=flat-square&logo=redux&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
+  <img src="https://img.shields.io/badge/Remix-gray?style=flat-square&logo=remix&logoColor=white&"/>
 
 ---
 
