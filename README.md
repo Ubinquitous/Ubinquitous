@@ -5,8 +5,9 @@
 ### PARK UBIN
 
 <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUbinquitous%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
-  <a href="https://www.instagram.com/ub__27/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/ubin._ing/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
+
 </div>
 
 ---
@@ -60,27 +61,30 @@
 
 ---
 
-<div align="center">  
+<div align="center">
 
 ### 📑 My Project 📑
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_Frontend&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_Frontend">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_Frontend">
 </picture>](https://github.com/Original-Gimchi/OG-Frontend)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMAWIKI_WEB_V2&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMAWIKI_WEB_V2">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMAWIKI_WEB_V2">
 </picture>](https://github.com/Original-Gimchi/BUMAWIKI_WEB_V2)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=BSM_WEB_V3&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Team-INSERT&repo=BSM_WEB_V3">
+</picture>](https://github.com/Team-INSERT/BSM_WEB_V3)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=T-Shaped-junior&repo=T_Frontend&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=T-Shaped-Junior&repo=T_Frontend">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=T-Shaped-Junior&repo=T_Frontend">
 </picture>](https://github.com/T-Shaped-Junior/T_Frontend)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=FTF_FindTheFollowers&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=FTF_FindTheFollowers">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=FTF_FindTheFollowers">
 </picture>](https://github.com/Ubinquitous/FTF_FindTheFollowers)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Frontend&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Frontend">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Frontend">
 </picture>](https://github.com/pigeon-head/Cereal_Frontend)
-  [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Backend&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Backend">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Backend&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Backend">
 </picture>](https://github.com/pigeon-head/Cereal_Backend)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=1NSEOUL&repo=ARISORI_Frontend&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=1NSEOUL&repo=ARISORI_Frontend">
@@ -89,7 +93,7 @@
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=1NSEOUL&repo=ARISORI_Backend">
 </picture>](https://github.com/1NSEOUL/ARISORI_Backend)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=TypeGit&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=TypeGit">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=TypeGit">
 </picture>](https://github.com/Ubinquitous/TypeGit)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=Nabin-Market&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=Nabin-Market">
@@ -97,42 +101,45 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=DADAMUM&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=DADAMUM">
 </picture>](https://github.com/Ubinquitous/DADAMUM)
+
 </div>
-<div align="center">  
+<div align="center">
 
 ### 📒 Self Development 📒
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=Details&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=Details">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=Details">
 </picture>](https://github.com/Ubinquitous/Details)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL" >
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TIL" >
 </picture>](https://github.com/Ubinquitous/TIL)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal" >
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Journal" >
 </picture>](https://github.com/Ubinquitous/Journal)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=problem-solving">
 </picture>](https://github.com/Ubinquitous/problem-solving)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TRAINING&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TRAINING">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=TRAINING">
 </picture>](https://github.com/Ubinquitous/TRAINING)
+
 </div>
   
   
 ### 📃 Tech Practice Repository 📃
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=React.js&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=React.js" >
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=React.js" >
 </picture>](https://github.com/Ubinquitous/React.js)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Vue.js&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Vue.js" >
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Vue.js" >
 </picture>](https://github.com/Ubinquitous/Vue.js)
 <br/>
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Flutter&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Flutter">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Flutter">
 </picture>](https://github.com/Ubinquitous/Flutter)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Swift&theme=github_dark"/>
-  <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Swift">
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=Ubinquitous&repo=Swift">
 </picture>](https://github.com/Ubinquitous/Swift)
+
 </div>
