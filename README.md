@@ -77,9 +77,6 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=T-Shaped-junior&repo=T_Frontend&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=T-Shaped-Junior&repo=T_Frontend">
 </picture>](https://github.com/T-Shaped-Junior/T_Frontend)
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=FTF_FindTheFollowers&theme=github_dark"/>
-<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=FTF_FindTheFollowers">
-</picture>](https://github.com/Ubinquitous/FTF_FindTheFollowers)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Frontend&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=pigeon-head&repo=Cereal_Frontend">
 </picture>](https://github.com/pigeon-head/Cereal_Frontend)
@@ -92,6 +89,9 @@
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=1NSEOUL&repo=ARISORI_Backend&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=1NSEOUL&repo=ARISORI_Backend">
 </picture>](https://github.com/1NSEOUL/ARISORI_Backend)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=FTF_FindTheFollowers&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=FTF_FindTheFollowers">
+</picture>](https://github.com/Ubinquitous/FTF_FindTheFollowers)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=TypeGit&theme=github_dark"/>
 <img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=TypeGit">
 </picture>](https://github.com/Ubinquitous/TypeGit)
