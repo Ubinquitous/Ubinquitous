@@ -63,6 +63,15 @@
 
 <div align="center">
 
+### 😎 About me 😎
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=ubin.me&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=ubin.me">
+</picture>](https://github.com/ubinquitous/ubin.me)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=ubin.log&theme=github_dark"/>
+<img alt="NoPaste" src="https://ghrs.vercel.app/api/pin/?username=ubinquitous&repo=ubin.log">
+</picture>](https://github.com/ubinquitous/ubin.log)
+
 ### 📑 My Project 📑
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=Original-Gimchi&repo=BUMA_Frontend&theme=github_dark"/>
