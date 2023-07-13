@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/React.js-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
 <img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React router-bb4b4a?style=flat-square&logo=reactrouter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/React Query-e95258?style=flat-square&logo=react-query&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
@@ -58,6 +58,7 @@
 <br/>
 <img src="https://img.shields.io/badge/React Native-73c4f3?style=flat-square&logo=react&logoColor=white&"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white&"/>
 
 ---
 
