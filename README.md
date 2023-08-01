@@ -6,7 +6,9 @@
 
 <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUbinquitous%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 <a href="https://www.instagram.com/ubin._ing/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
+<br/>
 <a href="https://velog.io/@ubin_ing"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
+[![wakatime](https://wakatime.com/badge/user/26d311ca-f489-408c-97e4-6a429c058ee6.svg)](https://wakatime.com/@26d311ca-f489-408c-97e4-6a429c058ee6)
 
 </div>
 
