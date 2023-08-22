@@ -74,9 +74,7 @@
 ### 📝 Tech blog 📝
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=yarn을-사용하는-이유는-뭘까)](https://velog.io/@ubin_ing)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=svg를-컴포넌트로-만들어서-사용하자)](https://velog.io/@ubin_ing)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=hit-typescript)](https://velog.io/@ubin_ing)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=Redux-마스터하기)](https://velog.io/@ubin_ing)
 
 ### 😎 About me 😎
 
