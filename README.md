@@ -7,7 +7,7 @@
 <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUbinquitous%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 <a href="https://www.instagram.com/ubin._ing/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
 <br/>
-<a href="https://velog.io/@ubin_ing"><img src="https://img.shields.io/badge/velog-20c997?style=flat-square&logo=velog&logoColor=white"/>
+<a href="https://velog.io/@ubin_ing"><img src="https://img.shields.io/badge/ubin.ing-20c997?style=flat-square&logo=velog&logoColor=white"/>
 [![wakatime](https://wakatime.com/badge/user/26d311ca-f489-408c-97e4-6a429c058ee6.svg)](https://wakatime.com/@26d311ca-f489-408c-97e4-6a429c058ee6)
 
 </div>
@@ -65,6 +65,18 @@
 ---
 
 <div align="center">
+
+### 📝 Retrospect 📝
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=소프트웨어-마이스터고-학생으로-살아가며)](https://velog.io/@ubin_ing)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=우리-학교만의-교내-위키-부마위키-개발-회고록)](https://velog.io/@ubin_ing)
+
+### 📝 Tech blog 📝
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=yarn을-사용하는-이유는-뭘까)](https://velog.io/@ubin_ing)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=svg를-컴포넌트로-만들어서-사용하자)](https://velog.io/@ubin_ing)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=hit-typescript)](https://velog.io/@ubin_ing)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=Redux-마스터하기)](https://velog.io/@ubin_ing)
 
 ### 😎 About me 😎
 
