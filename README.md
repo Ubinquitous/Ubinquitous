@@ -68,13 +68,13 @@
 
 ### 📝 Retrospect 📝
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=소프트웨어-마이스터고-학생으로-살아가며)](https://velog.io/@ubin_ing)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=우리-학교만의-교내-위키-부마위키-개발-회고록)](https://velog.io/@ubin_ing)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=소프트웨어-마이스터고-학생으로-살아가며)](https://velog.io/@ubin_ing/소프트웨어-마이스터고-학생으로-살아가며)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=우리-학교만의-교내-위키-부마위키-개발-회고록)](https://velog.io/@ubin_ing/우리-학교만의-교내-위키-부마위키-개발-회고록)
 
 ### 📝 Tech blog 📝
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=yarn을-사용하는-이유는-뭘까)](https://velog.io/@ubin_ing)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=hit-typescript)](https://velog.io/@ubin_ing)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=yarn을-사용하는-이유는-뭘까)](https://velog.io/@ubin_ing/yarn을-사용하는-이유는-뭘까)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ubin_ing&slug=hit-typescript)](https://velog.io/@ubin_ing/hit-typescript)
 
 ### 😎 About me 😎
 
