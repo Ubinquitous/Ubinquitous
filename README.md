@@ -3,40 +3,21 @@
 
   <div align="center">
 
-### PARK UBIN
+### 🖐️ Hi, I am ㅂㅂ
 
 <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUbinquitous%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
-<a href="https://www.instagram.com/ubin._ing/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/>
-<br/>
-<a href="https://velog.io/@ubin_ing"><img src="https://img.shields.io/badge/ubin.ing-20c997?style=flat-square&logo=velog&logoColor=white"/>
-[![wakatime](https://wakatime.com/badge/user/26d311ca-f489-408c-97e4-6a429c058ee6.svg)](https://wakatime.com/@26d311ca-f489-408c-97e4-6a429c058ee6)
+<a href="https://www.instagram.com/ubin._ing/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/><a href="https://velog.io/@ubin_ing"><img src="https://img.shields.io/badge/ubin.ing-20c997?style=flat-square&logo=velog&logoColor=white"/>
+
 
 </div>
 
 ---
 
 <div align="center">
-<b>As the nickname suggests, I want to become <br/>a developer that everyone knows.</b>
+<b>I'm focus on Frontend Development 👨‍💻</b>
+<br/><br/>
+<div><img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/></div>
 </div>
-
----
-
-<div align="left">
-<div align="center">  
-<b>🛠 Use for work 🛠</b>
-</div>
-<div align="center">
-<img src="https://img.shields.io/badge/TypeScript-4376c1?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-  
-<div align="center">
-  <br/>
-<b>🔩 Know how to use 🔩</b>
-</div>
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-66B845?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 ---
 
