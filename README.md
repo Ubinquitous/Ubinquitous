@@ -3,7 +3,7 @@
 
   <div align="center">
 
-### 🖐️ Hi, I am ㅂㅂ
+### 🖐️ Hi, I am Ubin Park.
 
 <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUbinquitous%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 <a href="https://www.instagram.com/ubin._ing/"><img src="https://img.shields.io/badge/Instagram-hotpink?style=flat-square&logo=instagram&logoColor=white"/><a href="https://velog.io/@ubin_ing"><img src="https://img.shields.io/badge/ubin.ing-20c997?style=flat-square&logo=velog&logoColor=white"/>
