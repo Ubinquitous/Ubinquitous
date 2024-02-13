@@ -7,7 +7,6 @@
 
 <a href="https://github.com/Ubinquitous">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUbinquitous%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 &nbsp;&nbsp;
-
 <a href="https://parkubin.notion.site/parkubin/a71d9b12489e4a93ab2d7c51b9b1e00b" target="_blank">
   <img src="https://img.shields.io/badge/Notion-fff?style=flat-square&logo=Notion&logoColor=black"/>
 </a>
