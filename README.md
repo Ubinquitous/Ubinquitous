@@ -17,6 +17,6 @@
 <img width="150" src="https://i.namu.wiki/i/TwHMNS5hOboXmR2ibDInakT9WJD8lYo0hJ-V4X18Mpc8zK0iTw52Ta1bZoOscJHzX8O9UfKyjyOTCq7dY63DWQ.webp" />
 <img width="150" src="https://image.bugsm.co.kr/album/images/500/40956/4095601.jpg" />
 <img width="150" src="https://image.bugsm.co.kr/album/images/200/207010/20701064.jpg?version=20250124012910.0" />
-<img width="150" src="https://image.bugsm.co.kr/album/images/500/202923/20292302.jpg" />
+<img width="150" src="https://image.bugsm.co.kr/album/images/200/41184/4118450.jpg" />
 <img width="150" src="https://i.namu.wiki/i/NpqS6JIb0nN4XGavTbVkebVgvcuKbnOKiKiBLyceBzjnq1YsWRQmzzIKBpZO03dT4XiCQ5HpNbP7wXhauB7eDg.webp" />
 </div>
